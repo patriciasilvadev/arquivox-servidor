@@ -6,7 +6,7 @@ O **Arquivo X** é um sistema desenvolvido em Python que automatiza o envio mens
 
 > Esta ferramenta foi desenvolvida com o apoio de inteligência artificial como **GitHub Copilot** e **ChatGPT** para acelerar o processo de codificação e aplicar boas práticas no desenvolvimento. 
 
-![Interface do Arquivo X](./img/interface-arquivox.jpg)
+![Interface do Arquivo X](./img/interface-arquivox.png)
 
 ---
 
